@@ -10,6 +10,7 @@ I'm Chloe, an undergraduate computer science student. {{ site.title }} by {{ sit
 //{% include big-cat.html %}//
 
 {% include profile-pic.png %}
+![profile-pic](https://user-images.githubusercontent.com/96831510/175758093-771f102d-3436-4b16-ba0c-7b146995fd82.png)
 
 
 ## About About Pages
