@@ -4,7 +4,7 @@ title: About
 example: This is an example value.
 ---
 
-This page describes the amazing {{ site.title }} by {{ site.author.name }}.
+I'm Chloe, an undergraduate computer science student. {{ site.title }} by {{ site.author.name }}.
 {{ page.example }}
 
 //{% include big-cat.html %}//
